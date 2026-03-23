@@ -1,0 +1,77 @@
+# 📊 Sales Dashboard
+
+An interactive and animated sales dashboard that provides real-time insights into business performance, revenue trends, and key metrics.
+
+---
+
+## 🚀 Features
+
+* 📈 Real-time sales data updates
+* 🎬 Animated charts and graphs
+* 📊 KPI metrics (Revenue, Profit, Orders)
+* 🔍 Filter and search functionality
+* 📱 Responsive design (mobile-friendly)
+
+---
+
+## 🛠️ Tech Stack
+
+* Frontend: HTML, CSS, JavaScript / React
+* Charts: Chart.js / Recharts
+* Backend: Node.js / Firebase (optional)
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots of your dashboard here)
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-Mona3111/sales-dashboard.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd sales-dashboard
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the project:
+
+   ```bash
+   npm start
+   ```
+
+---
+
+---
+
+## 📁 Project Structure
+
+```
+sales-dashboard/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── data/
+│   └── App.js
+│── package.json
+│── README.md
+```
+
+---
+
+
